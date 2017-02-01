@@ -1,5 +1,4 @@
 {
   "name": "newalbanyrestart",
   "app_id": ""
-  "gulpStartupTasks": ["sass", "watch"]
 }
